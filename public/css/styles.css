@@ -1,0 +1,165 @@
+#body {
+  color: #676767;
+}
+
+#mainheader {
+  width: 100%;
+  height: auto;
+  background: #013684;
+}
+
+h1 {
+  font-weight: bold;
+  text-align: center;
+  color: var(--bs-white);
+  font-size: 47.9px;
+  font-weight: bolder;
+  margin-top: 5%;
+  padding: 10%;
+  padding-top: 3%;
+  padding-bottom: 0%;
+}
+
+.bannerimg {
+  width: 85%;
+}
+
+.card-group.group-csx {
+  margin-top: -7%;
+}
+
+.text-center.card-title {
+  font-size: 20px;
+  font-weight: bolder;
+  font-family: 'Poppins';
+  padding: 5%;
+  color: #0c387f;
+}
+
+.card-body {
+  padding: 10% 10%;
+}
+
+.card-text {
+  font-size: 16px;
+  font-family: 'Poppins';
+  font-weight: 200;
+}
+
+.homecontent {
+  width: 100%;
+  background: white;
+  height: auto;
+  padding: 5% 0%;
+}
+
+.card-title {
+  font-weight: 600;
+  color: #0c387f;
+}
+
+.card-text.homecontenttext {
+  color: #676767;
+  /*margin-top: 15%;*/
+  margin-top: 5%;
+}
+
+.card.cccard {
+  border: none;
+}
+
+.card-body.card-bodycontent {
+  padding: 5% 10% 5% 0%;
+}
+
+.testimony {
+  width: 100%;
+  height: auto;
+  background: #0361F0;
+  margin-top: 5%;
+  padding: 7% 0%;
+}
+
+.testtext {
+  font-size: 20px;
+  color: white;
+}
+
+.client-section {
+  width: 100%;
+  height: auto;
+  background: white;
+  padding: 5% 0%;
+}
+
+#mainheader_static {
+  width: 100%;
+  height: auto;
+  background: white;
+  color: #0c387f;
+  padding: 0% 0% 5% 0%;
+}
+
+.text-start.static-start {
+  /*font-size: 20px;*/
+  color: #0c387f;
+  padding-left: 0px;
+}
+
+.staticpro {
+  width: 100%;
+  height: auto;
+  background: #F0F4FA;
+  padding: 5% 0%;
+}
+
+.contenth2 {
+  color: #013684;
+}
+
+.col.chexs {
+  padding-top: 8%;
+  padding: 10%;
+}
+
+.col.chexs.chexs2 {
+  padding-top: 8%;
+  padding: 5% 10%;
+}
+
+.basebase {
+  width: 100%;
+  height: auto;
+  background: #0361F0;
+}
+
+.ddd {
+  margin-left: auto!important;
+}
+
+.corevar {
+  width: 100%;
+  height: auto;
+  background: #013684;
+  padding: 5% 0%;
+  color: white !important;
+}
+
+.hightext {
+  font-size: 150px;
+  font-weight: initial;
+  color: #858585;
+  margin-right: 5%;
+}
+
+.movec {
+  margin-top: 5%;
+}
+
+.contactbox {
+  width: 100%;
+  height: auto;
+  padding-bottom: 5%;
+  margin-top: 5%;
+}
+

@@ -1,0 +1,50 @@
+
+
+
+/*Small devices (landscape phones, 676px and up)*/
+@media screen and (max-width: 876px) {
+  
+    h1 {
+        font-size: 2.1rem !important;
+        margin-top: 24% !important;
+        margin-bottom: 10% !important;
+      }
+  
+
+  
+  }
+  
+  /*// Large devices (desktops, 992px and up)*/
+  @media (max-width: 980px) { 
+  
+  
+  
+  }
+  
+  
+  
+  /*// Large devices (desktops, 992px and up)*/
+  @media (max-width: 992px) { 
+  
+  
+  
+  
+  }
+  
+  @media (max-width: 1380px) { 
+  
+  
+  
+  
+  
+  }
+  
+  
+  
+  /*// Extra large devices (large desktops, 1200px and up)*/
+  @media (min-width: 1800px) { 
+  
+  
+  
+  
+  }
